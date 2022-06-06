@@ -1,6 +1,6 @@
 # Reddit-2-Next.js Build - Next.js, Tailwind CSS, NextAuth and Stepzen
 
-This is a reddit-2-nextjs build with Next.js, Tailwind CSS NextAuth and Stepzen.
+This is a reddit-2-nextjs build with Next.js, Tailwind CSS, NextAuth and Stepzen.
 
 ## How to use
 
